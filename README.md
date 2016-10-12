@@ -1,2 +1,4 @@
 # hello-world
-just a beggining repository
+just an other repository
+
+hello every body :)
